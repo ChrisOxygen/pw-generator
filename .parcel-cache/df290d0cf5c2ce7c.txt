@@ -1,4 +1,4 @@
-10272
+10275
 75C:\Users\HP\Desktop\password-generator-app\node_modules\weak-lru-cache\dist133378206784297510 1
 76C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_baseClone.js133377808480068016 0
 64C:\Users\HP\Desktop\password-generator-app\node_modules\argparse133378206816371746 1
@@ -46,7 +46,7 @@
 100C:\Users\HP\Desktop\password-generator-app\node_modules\read-pkg\node_modules\normalize-package-data133377808469369990 1
 73C:\Users\HP\Desktop\password-generator-app\node_modules\lmdb\util\when.js133378206950263694 0
 74C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_baseHas.js133377808482218729 0
-53C:\Users\HP\Desktop\password-generator-app\.gitignore133156808170000000 0
+53C:\Users\HP\Desktop\password-generator-app\.gitignore133378721385917139 0
 70C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\F.js133377808507301184 0
 65C:\Users\HP\Desktop\password-generator-app\node_modules\@mischnic133378206745461368 1
 135C:\Users\HP\Desktop\password-generator-app\node_modules\node-sass\test\fixtures\include-files\chained-imports-with-custom-importer.scss133377808504494173 0
@@ -74,7 +74,7 @@
 86C:\Users\HP\Desktop\password-generator-app\node_modules\minipass-fetch\lib\response.js133377808475976976 0
 97C:\Users\HP\Desktop\password-generator-app\node_modules\stdout-stream\node_modules\string_decoder133377808469369990 1
 68C:\Users\HP\Desktop\password-generator-app\node_modules\nopt\LICENSE133377808458442862 0
-47C:\Users\HP\Desktop\password-generator-app\dist133378702256743672 1
+47C:\Users\HP\Desktop\password-generator-app\dist133378728980638223 1
 66C:\Users\HP\Desktop\password-generator-app\node_modules\iconv-lite133377808481017997 1
 101C:\Users\HP\Desktop\password-generator-app\node_modules\resolve\test\module_dir\ymodules\aaa\index.js133377808481160763 0
 115C:\Users\HP\Desktop\password-generator-app\node_modules\@babel\code-frame\node_modules\color-convert\conversions.js133377808466058469 0
@@ -115,6 +115,11 @@
 55C:\Users\HP\Desktop\password-generator-app\package.json133378702078466259 0
 70C:\Users\HP\Desktop\password-generator-app\node_modules\wrappy\LICENSE133377808464383744 0
 67C:\Users\HP\Desktop\password-generator-app\node_modules\js-yaml\lib133378206883931079 1
+88C:\Users\HP\Desktop\password-generator-app\node_modules\svgo\plugins\sortDefsChildren.js133378206915586431 0
+100C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\_\_new_arrow_check\package.json133378206987853178 0
+80C:\Users\HP\Desktop\password-generator-app\node_modules\@babel\highlight\LICENSE133377808458093110 0
+100C:\Users\HP\Desktop\password-generator-app\node_modules\node-gyp\.github\workflows\visual-studio.yml133377808494017676 0
+52C:\Users\HP\Desktop\password-generator-app\README.md133378711108433020 0
 85C:\Users\HP\Desktop\password-generator-app\src\sass\components\_checkbox-section.scss133378214665550122 0
 108C:\Users\HP\Desktop\password-generator-app\node_modules\stdout-stream\node_modules\readable-stream\duplex.js133377808476579943 0
 74C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\unzip.js133377808517943515 0
@@ -132,7 +137,7 @@
 101C:\Users\HP\Desktop\password-generator-app\node_modules\caniuse-lite\data\features\input-inputmode.js133378206994146350 0
 76C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\shuffle.js133377808515158367 0
 66C:\Users\HP\Desktop\password-generator-app\node_modules\fill-range133378206803276772 1
-73C:\Users\HP\Desktop\password-generator-app\src\sass\base\_typography.scss133378144435973782 0
+73C:\Users\HP\Desktop\password-generator-app\src\sass\base\_typography.scss133378728692216596 0
 85C:\Users\HP\Desktop\password-generator-app\node_modules\http-proxy-agent\package.json133377808465009269 0
 121C:\Users\HP\Desktop\password-generator-app\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133378206966550141 0
 79C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\lowerFirst.js133377808511535914 0
@@ -444,10 +449,10 @@
 88C:\Users\HP\Desktop\password-generator-app\node_modules\update-browserslist-db\README.md133378206811634415 0
 72C:\Users\HP\Desktop\password-generator-app\node_modules\sha.js\sha384.js133378412737500672 0
 62C:\Users\HP\Desktop\password-generator-app\node_modules\aproba133377808469676872 1
+62C:\Users\HP\Desktop\password-generator-app\node_modules\arrify133377808466860749 1
 83C:\Users\HP\Desktop\password-generator-app\node_modules\utility-types\dist\index.js133378206804802678 0
 82C:\Users\HP\Desktop\password-generator-app\node_modules\htmlnano\docs\netlify.toml133378206920273890 0
 80C:\Users\HP\Desktop\password-generator-app\node_modules\supports-color\readme.md133377808471117517 0
-62C:\Users\HP\Desktop\password-generator-app\node_modules\arrify133377808466860749 1
 93C:\Users\HP\Desktop\password-generator-app\node_modules\make-fetch-happen\lib\cache\errors.js133377808472528834 0
 69C:\Users\HP\Desktop\password-generator-app\node_modules\async-foreach133377808474849881 1
 78C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\wrapperAt.js133377808518581603 0
@@ -471,10 +476,10 @@
 75C:\Users\HP\Desktop\password-generator-app\node_modules\micromatch\index.js133378206786840713 0
 81C:\Users\HP\Desktop\password-generator-app\node_modules\true-case-path\index.d.ts133377808471218414 0
 107C:\Users\HP\Desktop\password-generator-app\node_modules\node-gyp\node_modules\http-proxy-agent\package.json133377808466274406 0
-80C:\Users\HP\Desktop\password-generator-app\node_modules\normalize-path\README.md133378212677755361 0
-100C:\Users\HP\Desktop\password-generator-app\node_modules\cacache\node_modules\brace-expansion\LICENSE133377808459336257 0
 90C:\Users\HP\Desktop\password-generator-app\node_modules\node-sass\src\libsass\src\bind.cpp133377808480422171 0
 94C:\Users\HP\Desktop\password-generator-app\node_modules\caniuse-lite\data\features\progress.js133378207016217344 0
+80C:\Users\HP\Desktop\password-generator-app\node_modules\normalize-path\README.md133378212677755361 0
+100C:\Users\HP\Desktop\password-generator-app\node_modules\cacache\node_modules\brace-expansion\LICENSE133377808459336257 0
 68C:\Users\HP\Desktop\password-generator-app\node_modules\tar\index.js133377808474347978 0
 79C:\Users\HP\Desktop\password-generator-app\node_modules\htmlnano\lib\helpers.js133378206833994618 0
 62C:\Users\HP\Desktop\password-generator-app\node_modules\base-x133378206804932345 1
@@ -2501,10 +2506,6 @@
 81C:\Users\HP\Desktop\password-generator-app\node_modules\svgo\plugins\sortAttrs.js133378206915257312 0
 79C:\Users\HP\Desktop\password-generator-app\node_modules\readable-stream\LICENSE133377808458307414 0
 82C:\Users\HP\Desktop\password-generator-app\node_modules\require-directory\index.js133377808467550136 0
-88C:\Users\HP\Desktop\password-generator-app\node_modules\svgo\plugins\sortDefsChildren.js133378206915586431 0
-100C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\_\_new_arrow_check\package.json133378206987853178 0
-80C:\Users\HP\Desktop\password-generator-app\node_modules\@babel\highlight\LICENSE133377808458093110 0
-100C:\Users\HP\Desktop\password-generator-app\node_modules\node-gyp\.github\workflows\visual-studio.yml133377808494017676 0
 70C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\last.js133377808511229064 0
 98C:\Users\HP\Desktop\password-generator-app\node_modules\scss-tokenizer\lib\tokenize-interpolant.js133377808474274327 0
 77C:\Users\HP\Desktop\password-generator-app\node_modules\css-tree\lib\index.js133378206965303486 0
@@ -2697,6 +2698,7 @@
 120C:\Users\HP\Desktop\password-generator-app\node_modules\stdout-stream\node_modules\readable-stream\lib\_stream_duplex.js133377808462536026 0
 123C:\Users\HP\Desktop\password-generator-app\node_modules\stdout-stream\node_modules\readable-stream\lib\_stream_transform.js133377808472887065 0
 103C:\Users\HP\Desktop\password-generator-app\node_modules\csso\node_modules\css-tree\lib\parser\create.js133378206953425242 0
+66C:\Users\HP\Desktop\password-generator-app\dist\index.2338c562.css133378728980169588 0
 70C:\Users\HP\Desktop\password-generator-app\node_modules\sha.js\sha1.js133378412735745374 0
 86C:\Users\HP\Desktop\password-generator-app\node_modules\resolve\test\precedence\bbb.js133377808478735738 0
 103C:\Users\HP\Desktop\password-generator-app\node_modules\csso\node_modules\css-tree\cjs\syntax\index.cjs133378206915396938 0
@@ -2805,7 +2807,6 @@
 85C:\Users\HP\Desktop\password-generator-app\node_modules\css-select\lib\compile.js.map133378206887222336 0
 105C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\cjs\_initializer_define_property.cjs133378206909083815 0
 103C:\Users\HP\Desktop\password-generator-app\node_modules\resolve\test\resolver\invalid_main\package.json133377808484361756 0
-72C:\Users\HP\Desktop\password-generator-app\node_modules\sha.js\sha224.js133378412736573140 0
 77C:\Users\HP\Desktop\password-generator-app\node_modules\node-addon-api\napi.h133378206839140862 0
 85C:\Users\HP\Desktop\password-generator-app\node_modules\css-select\lib\general.js.map133378206902651033 0
 104C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\cjs\_object_destructuring_empty.cjs133378206915456772 0
@@ -2896,6 +2897,7 @@
 74C:\Users\HP\Desktop\password-generator-app\node_modules\json5\lib\parse.js133378206812621778 0
 79C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_asciiToArray.js133377808478693555 0
 72C:\Users\HP\Desktop\password-generator-app\node_modules\sha.js\README.md133378412734508665 0
+72C:\Users\HP\Desktop\password-generator-app\node_modules\sha.js\sha224.js133378412736573140 0
 80C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_baseFindIndex.js133377808481371864 0
 70C:\Users\HP\Desktop\password-generator-app\node_modules\braces\LICENSE133378206804264158 0
 67C:\Users\HP\Desktop\password-generator-app\node_modules\sha.js\test133378412738537934 1
@@ -5554,6 +5556,7 @@
 73C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\zipWith.js133377808519078849 0
 77C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_arrayEvery.js133377808473947855 0
 78C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_arrayFilter.js133377808475048193 0
+70C:\Users\HP\Desktop\password-generator-app\dist\index.2338c562.css.map133378728980638223 0
 80C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_arrayIncludes.js133377808475560044 0
 84C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_arrayIncludesWith.js133377808475976976 0
 80C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\_arrayLikeKeys.js133377808476325475 0
@@ -5924,9 +5927,6 @@
 77C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\isLength.js133377808509932300 0
 88C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\_\_set_prototype_of133378206988990137 1
 76C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\isMatch.js133377808510058219 0
-102C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\lib\_skip_first_generator_next.js133378206975745554 0
-107C:\Users\HP\Desktop\password-generator-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133378206895978869 0
-100C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\lib\_class_private_field_get.js133378206950911958 0
 75C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\isNull.js133377808510321505 0
 92C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\lib\_sliced_to_array.js133378206976423742 0
 77C:\Users\HP\Desktop\password-generator-app\node_modules\lodash\fp\isNumber.js133377808510361402 0
@@ -6217,6 +6217,9 @@
 107C:\Users\HP\Desktop\password-generator-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133378206874097381 0
 107C:\Users\HP\Desktop\password-generator-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133378206886853272 0
 102C:\Users\HP\Desktop\password-generator-app\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133378206942753777 0
+102C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\lib\_skip_first_generator_next.js133378206975745554 0
+107C:\Users\HP\Desktop\password-generator-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133378206895978869 0
+100C:\Users\HP\Desktop\password-generator-app\node_modules\@swc\helpers\lib\_class_private_field_get.js133378206950911958 0
 119C:\Users\HP\Desktop\password-generator-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\Lexer.js133378206923525209 0
 110C:\Users\HP\Desktop\password-generator-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133378206913581790 0
 90C:\Users\HP\Desktop\password-generator-app\node_modules\asn1.js\lib\asn1\decoders\index.js133378412737700128 0
@@ -10263,7 +10266,7 @@
 69C:\Users\HP\Desktop\password-generator-app\dist\index.e37f48ea.js.map133378697668723130 0
 70C:\Users\HP\Desktop\password-generator-app\dist\index.f7626f62.css.map133378700249678110 0
 65C:\Users\HP\Desktop\password-generator-app\dist\index.fffdf252.js133378702255098093 0
-58C:\Users\HP\Desktop\password-generator-app\dist\index.html133378702254888649 0
+58C:\Users\HP\Desktop\password-generator-app\dist\index.html133378728980169588 0
 56C:\Users\HP\Desktop\password-generator-app\css\style.css133378204653071962 0
 55C:\Users\HP\Desktop\password-generator-app\assets\fonts133156808700000000 1
 74C:\Users\HP\Desktop\password-generator-app\assets\images\favicon-32x32.png133156808170000000 0

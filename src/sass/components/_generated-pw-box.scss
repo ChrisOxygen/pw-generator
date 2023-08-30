@@ -11,9 +11,11 @@
     width: 100%;
     border: none;
     color: $almost-white;
+    font-family: 'JetBrains Mono', monospace;
 
     &::placeholder{
         opacity: 0.25;
+        font-family: 'JetBrains Mono', monospace;
     }
 }
 

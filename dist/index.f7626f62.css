@@ -41,7 +41,7 @@ body {
   text-transform: uppercase;
 }
 
-@media only screen and (width <= 430px) {
+@media only screen and (width <= 450px) {
   .heading-large {
     font-size: 24px;
   }

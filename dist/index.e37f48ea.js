@@ -605,37 +605,7 @@ const init = function() {
 };
 init();
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./model":"Y4A21","./views/view":"bWlJ9"}],"gkKU3":[function(require,module,exports) {
-exports.interopDefault = function(a) {
-    return a && a.__esModule ? a : {
-        default: a
-    };
-};
-exports.defineInteropFlag = function(a) {
-    Object.defineProperty(a, "__esModule", {
-        value: true
-    });
-};
-exports.exportAll = function(source, dest) {
-    Object.keys(source).forEach(function(key) {
-        if (key === "default" || key === "__esModule" || dest.hasOwnProperty(key)) return;
-        Object.defineProperty(dest, key, {
-            enumerable: true,
-            get: function() {
-                return source[key];
-            }
-        });
-    });
-    return dest;
-};
-exports.export = function(dest, destName, get) {
-    Object.defineProperty(dest, destName, {
-        enumerable: true,
-        get: get
-    });
-};
-
-},{}],"Y4A21":[function(require,module,exports) {
+},{"./model":"Y4A21","./views/view":"bWlJ9","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"Y4A21":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "state", ()=>state);
@@ -666,7 +636,7 @@ const state = {
     generatePW: (0, _generatePassword.generate)
 };
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","generate-password":"8B7mO"}],"8B7mO":[function(require,module,exports) {
+},{"generate-password":"8B7mO","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"8B7mO":[function(require,module,exports) {
 module.exports = require("db31458b8c8b132c");
 
 },{"db31458b8c8b132c":"aTBz3"}],"aTBz3":[function(require,module,exports) {
@@ -36564,7 +36534,37 @@ function randomFillSync(buf, offset, size) {
     return actualFill(buf, offset, size);
 }
 
-},{"e52c82591caff1d7":"d5jf4","954d667c0302f12c":"eW7r9","7041a0e993c249ef":"8hjhE"}],"bWlJ9":[function(require,module,exports) {
+},{"e52c82591caff1d7":"d5jf4","954d667c0302f12c":"eW7r9","7041a0e993c249ef":"8hjhE"}],"gkKU3":[function(require,module,exports) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, "__esModule", {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === "default" || key === "__esModule" || dest.hasOwnProperty(key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
+
+},{}],"bWlJ9":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 class View {

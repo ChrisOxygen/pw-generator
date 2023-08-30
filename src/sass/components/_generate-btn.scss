@@ -1,0 +1,35 @@
+
+
+
+
+.generate-btn{
+
+    background: $neon-green;
+    border: 2px solid $neon-green;
+    padding: 20px 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    color: $dark-grey;
+
+    transition: all .3s ease-in-out;
+
+
+    span{
+
+        
+        text-transform: uppercase;
+
+    }
+
+    i{
+        font-size: 12px;
+    }
+
+    &:hover{
+        background: none;
+        color: $neon-green;
+    }
+}

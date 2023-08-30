@@ -1,0 +1,26 @@
+{
+  "name": "password-generator-app",
+  "version": "1.0.0",
+  "description": "![Design preview for the Password generator app coding challenge](./preview.jpg)",
+  
+  "scripts": {
+    "compile:sass": "node-sass src/sass/main.scss css/style.css -w",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Christopher Okafor",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "node-sass": "^9.0.0",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0"
+  },
+  "dependencies": {
+    "generate-password": "^1.7.0"
+  }
+}

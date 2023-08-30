@@ -1,0 +1,59 @@
+
+
+.strenght-indicator-sect{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 32px;
+
+    margin-bottom: 32px;
+
+    background-color: $very-dark-grey;
+
+}
+
+.strenght-indicator{
+
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+
+    &__text{
+
+        color: $almost-white;
+        text-transform: uppercase;
+        
+    }
+
+    &__bars{
+        display: flex;
+        align-items: stretch;
+        gap: 8px;
+
+    }
+}
+
+.indicator-bar{
+
+    width: 10px;
+    height: 28px;
+    border: 2px solid $almost-white;
+    background-color: red;
+
+
+    &__1{
+
+        // border-color: $red-1;
+        
+    }
+    &__2{
+
+    }
+    &__3{
+
+    }
+    &__4{
+
+    }
+}

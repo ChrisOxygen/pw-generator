@@ -1,0 +1,57 @@
+.generated-password-sect{
+
+    position: relative;
+
+}
+
+.generated-password{
+    height: 80px;
+    background: $dark-grey;
+    padding: 19px 32px;
+    width: 100%;
+    border: none;
+    color: $almost-white;
+
+    &::placeholder{
+        opacity: 0.25;
+    }
+}
+
+.generated-password-copy{
+
+    position: absolute;
+    top: 50%;
+    right: 32px;
+    font-size: 24px;
+    color: $neon-green;
+
+    transition: all .3s ease-in-out;
+
+    transform: translateY(-50%); 
+
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    
+    &__text{
+        color: $neon-green;
+        text-transform: uppercase;
+        display: none;
+
+        transition: all .6s ease-in-out;
+    }
+    
+    &:hover{
+
+        color: #fff;
+    }
+
+}
+
+.visible{
+    display: block;
+}
+.fade-out{
+    opacity: 0;
+    transform: scale(1.2) translateY(-20px);
+}

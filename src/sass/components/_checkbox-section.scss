@@ -1,0 +1,72 @@
+
+
+.checklist-section{
+    margin: 32px 0;
+}
+
+.checklist{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    &__item{
+
+        display: flex;
+        align-items: center;
+        gap: 24px;
+        color: $almost-white;
+
+        input[type="checkbox"]{
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border: 2px solid $almost-white;
+            background: none;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+
+            &:hover{
+                cursor: pointer;
+            }
+
+        }
+
+
+        input[type="checkbox"]::after{
+
+            position: absolute;
+
+            top: 0;
+            left: -2px;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            
+
+            content: url('/assets/images/icon-check.svg');
+            width: 20px;
+            height: 20px;
+            
+
+        }
+
+
+        input[type="checkbox"]:checked{
+            
+            border: 2px solid $neon-green;
+            background: $neon-green;
+
+        }
+
+        input[type="checkbox"]:checked::after{
+            
+            display: flex;
+
+        }
+
+    }
+}
